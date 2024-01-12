@@ -7,6 +7,6 @@ caching
 Rendering
 ## Styling
 Global CSS
-Tailwing CSS
+Tailwind CSS
 DaisyUI
 
