@@ -1,12 +1,12 @@
 ## Getting Started with Next.js
-Demonstration of Next.js Funfamentals
-Project Setup
-Routing and Navigation
-Data Fetching
-caching
-Rendering
+1. Demonstration of Next.js Funfamentals
+2. Project Setup
+3. Routing and Navigation
+4. Data Fetching
+5. caching
+6. Rendering
 ## Styling
-Global CSS
-Tailwind CSS
-DaisyUI
+1. Global CSS
+2. Tailwind CSS
+3. DaisyUI
 
